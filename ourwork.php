@@ -32,14 +32,15 @@
 			Day 1 - Fundamental analysis and Economics</br>
 			Day 2 - Technical analysis and Stock Pick method</br></br>
 			Advance share trading</br>
-Short Term trading and portfolio management</br>Fees: RM 2800</br>Pay Now! :
+Short Term trading and portfolio management</br></br>Fees: RM 2800</br></br>Pay Now! :
 			</p>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="RPQ5ZVUFXGN32">
-            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
+
 
 		    <div class="content_container">
 		      <p>text</p>
