@@ -7,6 +7,7 @@
             <li><a href="projects.php">Projects</a></li>
             <li><a href="contact.php">Contact Us</a></li>
 			<li><a href="aboutus.php">About Us</a></li>
+            <li><a href="aboutus.php">Register</a></li>
           </ul>
         </div><!--close menubar-->	
       </nav>
@@ -32,13 +33,13 @@
 		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elit sapien, tempus sit amet hendrerit volutpat, euismod vitae risus. Etiam consequat, sem et vulputate dapibus, diam enim tristique est, vitae porta eros mauris ut orci. Praesent sed velit odio. Ut massa arcu, suscipit viverra molestie at, aliquet a metus. Nullam sit amet tellus dui, ut tincidunt justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis egestas laoreet. Nunc non ipsum metus, non laoreet urna. Vestibulum quis risus quis diam mattis tempus. Vestibulum suscipit pretium tempor. </p>
 	  
 		  <div class="content_container">
-		    <p>text</p>
+		    <p>Hello World One</p>
 		  	<div class="button_small">
 		      <a href="#">Read more</a>
 		    </div><!--close button_small-->
 		  </div><!--close content_container-->
           <div class="content_container">
-		    <p>text.</p>
+		    <p>Hello World Two.</p>
 		  	<div class="button_small">
 		      <a href="#">Read more</a>
 		    </div><!--close button_small-->		  
