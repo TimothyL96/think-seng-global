@@ -5,7 +5,7 @@
                document.getElementById("MyElement").className = "MyClass";
 
            </html>
-
+o
 	<?php
 		include("sidebar.html");
 	?>
