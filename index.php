@@ -7,7 +7,7 @@
             <li><a href="projects.php">Projects</a></li>
             <li><a href="contact.php">Contact Us</a></li>
 			<li><a href="aboutus.php">About Us</a></li>
-            <li><a href="aboutus.php">Register</a></li>
+            <li><a href="register.php">Register</a></li>
           </ul>
         </div><!--close menubar-->	
       </nav>
