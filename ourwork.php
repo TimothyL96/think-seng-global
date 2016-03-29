@@ -1,26 +1,7 @@
 <?php
 	include("header.html");
 ?>
-            <li><a href="index.php">Home</a></li>
-            <li class="current"><a href="ourwork.php">Courses</a></li>
-            <li><a href="testimonials.php">Testimonials</a></li>
-            <li><a href="projects.php">Projects</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
-			<li><a href="aboutus.php">About Us</a></li>
-          </ul>
-        </div><!--close menubar-->	
-      </nav>
-    </header>
-	
-    <div id="slideshow_container">  
-	  <div class="slideshow">
-	    <ul class="slideshow">
-          <li class="show"><img width="940" height="250" src="images/home_1.jpg" alt="&quot;Enter your caption here&quot;" /></li>
-          <li><img width="940" height="250" src="images/home_2.jpg" alt="&quot;Enter your caption here&quot;" /></li>
-        </ul> 
-	  </div><!--close slideshow-->  	
-	</div><!--close slideshow_container-->  	
-    
+
 	<?php
 		include("sidebar.html");
 	?>
