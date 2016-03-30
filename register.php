@@ -1,10 +1,10 @@
 <?php include("header.html"); ?>
         <script>
-            (function()
+            window.onload = function()
             {
                 var a = document.getElementById("register");
                 a.classList.add("current");
-            })();
+            }
         </script>
 <?php include("sidebar.html"); ?>
 
