@@ -2,7 +2,8 @@
         <script>
             (function()
             {
-                document.getElementById("register").addClass = "current";
+                var a = document.getElementById("register");
+                a.classList.add("current");
             })();
         </script>
 <?php include("sidebar.html"); ?>
