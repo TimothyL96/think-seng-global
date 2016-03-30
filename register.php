@@ -1,6 +1,9 @@
 <?php include("header.html"); ?>
         <script>
-            document.getElementById("register").addClass = "current";
+            (function()
+            {
+                document.getElementById("register").addClass = "current";
+            })();
         </script>
 <?php include("sidebar.html"); ?>
 
@@ -13,6 +16,8 @@
 	    </div><!--close content_item-->
       </div><!--close content-->
 	</div><!--close site_content-->
+
+
 <?php
 	include("footer.html");
 ?>
