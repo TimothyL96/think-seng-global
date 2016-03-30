@@ -1,10 +1,12 @@
-<?php
-	include("header.html");
-?>
-
-	<?php
-		include("sidebar.html");
-	?> 
+<?php include("header.html"); ?>
+        <script>
+            window.onload = function()
+            {
+                var a = document.getElementById("register");
+                a.classList.add("current");
+            }
+        </script>
+<?php include("sidebar.html"); ?>
 	
 	  <div id="content">
         <div class="content_item">
