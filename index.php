@@ -2,7 +2,7 @@
         <script>
             window.onload = function()
             {
-                var a = document.getElementById("register");
+                var a = document.getElementById("index");
                 a.classList.add("current");
             }
         </script>
