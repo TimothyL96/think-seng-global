@@ -15,7 +15,7 @@
 			<p>E-mail : enquire@thinksengglobal.com</p>
 			<p>form:</p>
             <form action="" method="post">
-                First Name: <input type="text" name="name" placeholder="First Name" required="required"/>
+                First Name: <input type="text" name="name" placeholder="First Name" required="required"/></br>
                 Second Name: <input type="text" name="name" placeholder="Second Name" required="required"/>
                 <input type="submit" name="submit" value="Register"/>
             </form>
